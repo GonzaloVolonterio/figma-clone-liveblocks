@@ -20,6 +20,7 @@
 React
 Next.js
 TypeScript
+React-hook
 Liveblocks
 Fabric.js
 Shadcn
