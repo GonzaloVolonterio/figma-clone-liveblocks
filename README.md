@@ -44,7 +44,7 @@ npm run dev
 
 ### Live
 
-https://figma-clone-liveblocks.vercel.app
+https://figma-clone-blond.vercel.app/
 
 ![figma-clone-01](https://github.com/GonzaloVolonterio/figma-clone-liveblocks/assets/64506662/c2f0a13e-ffb8-4a17-921c-d7592ebde6cd)
 
